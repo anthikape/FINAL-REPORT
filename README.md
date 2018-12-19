@@ -14,36 +14,43 @@
 
 
 # Εργασία Περιεχομένου
+**[Σύνδεσμος αποθετηρίου](https://github.com/anthikape/gr)**
+
+**[Σύνδεσμος σελίδας](https://anthikape.github.io/gr)**
 
 ## Α παραδοτεο
 
-### Link σελίδας: https://anthikape.github.io/gr
 
-### Link πρώτης φωτογραφίας: https://anthikape.github.io/gr/gallery/USB-hub/
+  * [USB-hub](https://anthikape.github.io/gr/gallery/USB-hub/)
 
-### Link δεύτερης φωτογραφίας: https://anthikape.github.io/gr/gallery/Windows-Vista/
+  * [Windows-Vista](https://anthikape.github.io/gr/gallery/Windows-Vista/)
 
-### Link τρίτης φωτογραφίας: https://anthikape.github.io/gr/gallery/Smalltalk/
+  * [Smalltalk](https://anthikape.github.io/gr/gallery/Smalltalk/)
 
-### Link τέταρτης φωτογραφίας: https://anthikape.github.io/gr/gallery/Hard-disk/
+  * [Hard-disk](https://anthikape.github.io/gr/gallery/Hard-diskHard-disk/)
 
-### Link πέμπτης φωτογραφίας: https://anthikape.github.io/gr/gallery/Mark-Zuckerberg/
+  * [Mark-Zuckerberg](https://anthikape.github.io/gr/gallery/Mark-Zuckerberg/)
+  
 
-### Link από το  αποθετηριο : https://github.com/anthikape/gr
+
+
 
 ## Β παραδοτεο
 
-### Link 1ου διαδραστικού παραδείγματος: https://anthikape.github.io/gr/remix/Particles-Random-Animation-in-Canvas/
 
-### Link 2ου διαδραστικού παραδείγματος: https://anthikape.github.io/gr/remix/snake/
+* [Particles-Random-Animation-in-Canvas](https://anthikape.github.io/gr/remix/Particles-Random-Animation-in-Canvas/)
+ 
 
+
+ * [snake](https://anthikape.github.io/gr/remix/snake/)
 
 # Εργασία Ανάπτυξης 
 
 # Παραδοτέο 1 
 
-#### [Link αποθετηρίου κώδικα]: https://github.com/anthikape/D3js-US-educational-attainment
-#### [Link στο εκτελέσιμο]: https://anthikape.github.io/D3js-US-educational-attainment/
+#### [Link αποθετηρίου κώδικα](https://github.com/anthikape/D3js-US-educational-attainment)
+#### [Link στο εκτελέσιμο](https://anthikape.github.io/D3js-US-educational-attainment/)
+
 
 ###  Zητούμενα πρώτου παραδοτέου
 
