@@ -71,6 +71,7 @@
 ![Screenshot](image2.png)
 ![Screenshot](image3.png)
 
+
 # Παραδοτέο 2
 
 ### Ζητούμενα δεύτερου παραδοτέου
